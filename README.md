@@ -6,7 +6,7 @@ A responsive outdoor landing page following [Julio Codes](https://github.com/jlo
 
 ![desktop-view](./images/outdoor-landing-page.png)
 
-![Live demo](https://htmlpreview.github.io/?https://github.com/xdelmo/outdoor-landing-page/blob/master/index.html)
+[Live demo](https://htmlpreview.github.io/?https://github.com/xdelmo/outdoor-landing-page/blob/master/index.html)
 
 ## Features
 
